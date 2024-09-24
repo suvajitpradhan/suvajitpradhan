@@ -26,19 +26,19 @@
 
 <!-- ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=suvajitpradhan&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
-<a href="http://www.github.com/codingstella"><img src="https://activity-graph.herokuapp.com/graph?username=codingstella&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/suvajitpradhan"><img src="https://activity-graph.herokuapp.com/graph?username=suvajitpradhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvajitpradhan&show_icons=true&locale=en" alt="suvajitpradhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvajitpradhan&" alt="suvajitpradhan" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvajitpradhan" alt="suvajitpradhan" /></a> </p>
 
 
 ## 🌏 **CONNECT WITH ME**
@@ -46,16 +46,16 @@
 <a href="https://www.instagram.com/coding.stella"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/@codingstella"> 
+<a href="https://www.youtube.com/@suvajitpradhan"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<!-- <a href="mailto:codingstella@gmail.com"> 
+<!-- <a href="mailto:suvajitpradhan@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> -->
-<!-- <a href="https://www.github.com/codingstella"> 
+<!-- <a href="https://www.github.com/suvajitpradhan"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> -->
-<!-- <a href="https://twitter.com/codingstellaa"> 
+<!-- <a href="https://twitter.com/suvajitpradhana"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
 <a href="https://www.facebook.com/profile.php?=100087370156118"> 
@@ -64,7 +64,7 @@
 <!--<a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>-->
-<a href="https://codepen.io/codingstella"> 
+<a href="https://codepen.io/suvajitpradhan"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <br />
@@ -216,7 +216,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
+[repo]: https://github.com/suvajitpradhan?tab=repositories
 
 <hr />
 
@@ -226,13 +226,13 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/suvajitpradhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
  ## 💰 You can help me by Donating
 
 <br/>
  
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codingstella)
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=suvajitpradhan&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/suvajitpradhan)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suvajitpradhan&theme=onedark) -->
